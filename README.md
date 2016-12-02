@@ -13,6 +13,27 @@ Para que las consultas funcionen correctamente es necesario tener instalado y co
 
 [VAExtensions](https://github.com/Antaniserse/VAExtensions) es un plugin para Voiceattack que es necesario tener instalado y activado para que los comandos de consulta puedan ser ejecutados correctamente.
 
+Comandos de Voiceattack:
+
+Dos ficheros .vap
+
+- Consultas_para_perfil_principal.vap: Se deberán importar dentro de nuestro perfil principal que usemos para elite Dangerous. Para ello editaremos el perfil e importaremos los comandos dentro.
+
+<p align="center">
+  <img src="https://s16.postimg.org/khmvt3f81/edit_main_profile.png" alt="Details"/>
+</p>
+<p align="center">
+  <img src="https://s16.postimg.org/6147s9f4h/import_commands.png" alt="Filters"/>
+</p>
+<p align="center">
+  <img src="https://s16.postimg.org/hoto92evl/import_commands_2.png" alt="Filters"/>
+</p>
+
+- Consultas Ingenieros.vap: Este es un perfil que deberemos importar completo y cuyo nombre no debe ser modificado.
+
+<p align="center">
+  <img src="https://s16.postimg.org/hri59n7wx/import_profile.png" alt="Details"/>
+</p>
 
 ### Funcionalidades
 
