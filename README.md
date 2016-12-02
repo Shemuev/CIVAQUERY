@@ -1,6 +1,6 @@
 # CIVAQUERY
-Comandos de Voiceattack para Elite Dangerous que consultan que cantidad de material, mercancía o dato de ingenieros tienes 
-almacenado en la bodega de carga usando como plataforma la app EDEngineer y sus opciones de servidor local.
+
+Comandos de [VoiceAttack](www.voiceattack.com) para Elite Dangerous que consultan que cantidad de material, mercancía o dato de ingenieros tienes almacenado en la bodega de carga usando como plataforma la app EDEngineer y sus opciones de servidor local.
 
 ### Instalación
 
@@ -9,13 +9,11 @@ Requirimientos:
 - [EDEngineer](https://github.com/msarilar/EDEngineer)
 - [VAExtensions](https://github.com/Antaniserse/VAExtensions)
 
-Para que las consultas funcionen correctamente es necesario tener instalado y configurado correctamente [EDEngineer](https://github.com/msarilar/EDEngineer), ya que actualmente no se puede consultar la carga de tu nave usando la información de los logs proporcionados por FDEV.
+Para que las consultas funcionen correctamente es necesario tener instalado y configurado correctamente [EDEngineer](https://cdn.rawgit.com/msarilar/EDEngineer/master/EDEngineer/releases/setup.exe), ya que actualmente no se puede consultar la carga de tu nave usando la información de los logs proporcionados por FDEV.
 
-[VAExtensions](https://github.com/Antaniserse/VAExtensions) es un plugin para Voiceattack que es necesario tener instalado y activado para que los comandos de consulta puedan ser ejecutados correctamente.
+[VAExtensions](https://github.com/Antaniserse/VAExtensions/releases) es un plugin para Voiceattack que es necesario tener instalado y activado para que los comandos de consulta puedan ser ejecutados correctamente.
 
-Comandos de Voiceattack:
-
-Dos ficheros .vap
+Comandos de Voiceattack (Dos ficheros .vap):
 
 - Consultas_para_perfil_principal.vap: Se deberán importar dentro de nuestro perfil principal que usemos para elite Dangerous. Para ello editaremos el perfil e importaremos los comandos dentro.
 
