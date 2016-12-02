@@ -19,13 +19,21 @@ Dos ficheros .vap
 
 - Consultas_para_perfil_principal.vap: Se deberán importar dentro de nuestro perfil principal que usemos para elite Dangerous. Para ello editaremos el perfil e importaremos los comandos dentro.
 
-![Overview](https://s16.postimg.org/khmvt3f81/edit_main_profile.png)
-![Overview](https://s16.postimg.org/6147s9f4h/import_commands.png)
-![Overview](https://s16.postimg.org/hoto92evl/import_commands_2.png)
+<p align="center">
+  <img src="https://s16.postimg.org/bmm1ikqfp/edit_main_profile.png" alt="Details"/>
+</p>
+<p align="center">
+  <img src="https://s16.postimg.org/raru33vf9/import_commands.pngg" alt="Details"/>
+</p>
+<p align="center">
+  <img src="https://s16.postimg.org/8tstyjq39/import_commands_2.png" alt="Details"/>
+</p>
 
 - Consultas Ingenieros.vap: Este es un perfil que deberemos importar completo y cuyo nombre no debe ser modificado.
 
-![Overview](https://s16.postimg.org/hri59n7wx/import_profile.png)
+<p align="center">
+  <img src="https://s16.postimg.org/bdt26e311/import_profile.png" alt="Details"/>
+</p>
 
 ### Funcionalidades
 
