@@ -2,7 +2,7 @@
 
 Comandos de [VoiceAttack](www.voiceattack.com) para Elite Dangerous que consultan que cantidad de material, mercancía o dato de ingenieros tienes almacenado en la bodega de carga usando como plataforma la app EDEngineer y sus opciones de servidor local.
 
-## [**Common Issues and their fixes!**](https://github.com/Shemuev/CIVAQUERY/wiki/Troubleshooting-Issues-(espa%C3%B1ol))
+## [**¡Errores comunes y sus soluciones!**](https://github.com/Shemuev/CIVAQUERY/wiki/Troubleshooting-Issues-(espa%C3%B1ol))
 
 ### Instalación
 
