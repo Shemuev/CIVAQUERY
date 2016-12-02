@@ -44,3 +44,10 @@ Estos son los comandos de voz que están disponibles para usar.
 - "Que tipo es": Después de ejecutar este comando de voz esperaremos un instante para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado de que tipo es el objeto nombrado (Mercancía, material o dato).
 
 ##### **AVISO:** Despues de ejecutar cada comando hay que hace una pequeña pausa (1s) para nombrar el material, mercancía o dato que queremos consultar.
+
+### Agradecimientos
+
+- A msarilar por crear EDEngineer, aceptar crear el servidor local de transacciones que ha hecho posible la creación de estos comandos y su infinita paciencia :) o7.
+- A los Corsarios de Heimdal TCAS y Aken por traducir e impsulsar la versión en castellano de EDEngineer (Que la luz de Heimdal ilumine vuestro camino!).
+- A Antaniserse por crear el maravilloso plugin VAExtensions que hace posible interpretar y extrar la información de EDEngineer a VoiceAttack.
+- A CMDT Txus por ayudarme con la parte más pesada de replicación de comandos y beta testing junto a CMDT Alepf (sois muy grandes!).
