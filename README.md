@@ -35,6 +35,10 @@ Comandos de Voiceattack (Dos ficheros .vap):
   <img src="https://s16.postimg.org/bdt26e311/import_profile.png" alt="Details"/>
 </p>
 
+Fichero MP3:
+
+- Copiar el fichero backward.MP3 en "ruta de intalación VoiceAttack\Sounds".
+
 ### Funcionalidades
 
 Estos son los comandos de voz que están disponibles para usar.
