@@ -43,11 +43,11 @@ Fichero MP3:
 
 Estos son los comandos de voz que están disponibles para usar.
 
-- "Dime la cantidad de": Después de ejecutar este comando de voz esperaremos un instante para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado la cantidad que tenemos actualmente en nuestra bodega de carga.
-- "Dime la descripción de": Después de ejecutar este comando de voz esperaremos un instante para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado la rareza el material acompñado de una pequeña descripción de donde puede ser encontrado.
-- "Que tipo es": Después de ejecutar este comando de voz esperaremos un instante para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado de que tipo es el objeto nombrado (Mercancía, material o dato).
+- "Dime la cantidad de": Después de ejecutar este comando de voz esperaremos un instante al sonido de confirmación para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado la cantidad que tenemos actualmente en nuestra bodega de carga.
+- "Dime la descripción de": Después de ejecutar este comando de voz esperaremos un instante al sonido de confirmación para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado la rareza el material acompñado de una pequeña descripción de donde puede ser encontrado.
+- "Que tipo es": Después de ejecutar este comando de voz esperaremos un instante al sonido de confirmación para nombrar el material deseado. Como resultado se nos devolverá vía texto hablado de que tipo es el objeto nombrado (Mercancía, material o dato).
 
-##### **AVISO:** Despues de ejecutar cada comando hay que hace una pequeña pausa (1s) para nombrar el material, mercancía o dato que queremos consultar.
+##### **AVISO:** Despues de ejecutar cada comando hay que hace una pequeña pausa (sonido de confirmación) para nombrar el material, mercancía o dato que queremos consultar.
 
 ### Agradecimientos
 
