@@ -55,6 +55,6 @@ Estos son los comandos de voz que están disponibles para usar.
 
 - A msarilar por crear EDEngineer, aceptar crear el servidor local de transacciones que ha hecho posible la creación de estos comandos y su infinita paciencia :) o7.
 - A los Corsarios de Heimdal TCAS y Aken por traducir e impsulsar la versión en castellano de EDEngineer (Que la luz de Heimdal ilumine vuestro camino!).
-- A Antaniserse por crear el maravilloso plugin VAExtensions que hace posible interpretar y extrar la información de EDEngineer a VoiceAttack.
+- A Antaniserse por crear el maravilloso plugin VAExtensions que hace posible interpretar y extraer la información de EDEngineer a VoiceAttack.
 - A CMDT Txus por ayudarme con la parte más pesada de replicación de comandos, beta testing y el aparatado de componentes de su maravillosa web en español de [ingenieros](http://ingenieros.byethost24.com/componentes.html).
 - A CMDT Alepf por el beta testing (sois muy grandes!).
