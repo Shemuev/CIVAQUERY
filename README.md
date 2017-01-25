@@ -4,6 +4,8 @@ Comandos de VoiceAttack (www.voiceattack.com) para Elite Dangerous que consultan
 
 ## [**¡Errores comunes y sus soluciones!**](https://github.com/Shemuev/CIVAQUERY/wiki/Troubleshooting-Issues-(espa%C3%B1ol))
 
+### ¡SI TE HA GUSTADO CIVAQUERY DALE UNA ESTRELLA!¡GRACIAS! ;)
+
 ### Instalación
 
 Requirimientos:
